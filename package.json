@@ -1,14 +1,10 @@
 {
   "name": "silentanswer",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "Silent Chrome extension that copies Gemini API answers to your clipboard",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack --config webpack.config.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "devDependencies": {
     "dotenv-webpack": "^8.1.0",
     "webpack": "^5.99.7",
