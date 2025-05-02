@@ -19,7 +19,7 @@
   "commands": {
     "process_combined_question": { // Renamed command for clarity
       "suggested_key": {
-        "default": "Ctrl+Shift+A",
+        "default": "Ctrl+Shift+L",
         "mac": "Command+Shift+E"
       },
       "description": "Process Combined Gemini Question"
